@@ -1,7 +1,11 @@
 https://chat.openai.com/share/fa61ccf7-933b-44a6-82a2-22e53c302ea9
 
+---
+
 User
 Identify potential solutions or products, whether free or commercial, to address toil regarding mitigating issues such as recurring obsolete alerts and lack of prioritization
+
+---
 
 ChatGPT
 To address issues like recurring obsolete alerts and lack of prioritization, there are several potential solutions or products available, both free and commercial:
