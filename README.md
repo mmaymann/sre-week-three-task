@@ -9,7 +9,7 @@ To address issues like recurring obsolete alerts and lack of prioritization, the
 <strong>1. Monitoring and Alerting Systems:</strong><br>
 Prometheus: An open-source systems monitoring and alerting toolkit. It provides a multi-dimensional data model with time-series data, allowing you to query and visualize alerts.<br>
 Grafana: Grafana integrates with Prometheus and other data sources to provide visualization and alerting capabilities. It allows for advanced dashboard creation and alert management.<br>
-Datadog: A commercial monitoring and analytics platform that offers alerting, visualization, and log management. It provides integrations with various technologies and cloud platforms.<br>
+Datadog: A commercial monitoring and analytics platform that offers alerting, visualization, and log management. It provides integrations with various technologies and cloud platforms.<br><br>
 
 <strong>2. Automated Incident Response:</strong><br>
 PagerDuty: PagerDuty is an incident management platform that helps teams detect and respond to infrastructure and application problems quickly. It integrates with monitoring tools to automate the incident response process.<br>
