@@ -29,5 +29,5 @@ To address issues like recurring obsolete alerts and lack of prioritization, the
 
 <h4>6. Knowledge Base and Documentation:</h4>
 <strong>Confluence</strong>: Confluence is a collaboration tool that can be used to create and maintain documentation on alerting processes, incident response procedures, and troubleshooting guides. It helps ensure consistency and knowledge sharing among team members.<br>
-
+<br>
 By combining these solutions and tailoring them to your specific needs and environment, you can effectively mitigate issues related to recurring obsolete alerts and lack of prioritization.
