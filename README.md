@@ -2,7 +2,9 @@
 
 <h4>ChatGPT (https://chat.openai.com/share/fa61ccf7-933b-44a6-82a2-22e53c302ea9)</h4>
 ---
+<br>
 To address issues like recurring obsolete alerts and lack of prioritization, there are several potential solutions or products available, both free and commercial:
+<br>
 <br>
 <strong>1. Monitoring and Alerting Systems:</strong>
 Prometheus: An open-source systems monitoring and alerting toolkit. It provides a multi-dimensional data model with time-series data, allowing you to query and visualize alerts.
